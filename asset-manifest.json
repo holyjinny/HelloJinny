@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/HelloJinny/static/css/main.b2516d4b.css",
+    "main.js": "/HelloJinny/static/js/main.51b6a965.js",
+    "static/media/site-bg.jpg": "/HelloJinny/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "index.html": "/HelloJinny/index.html",
+    "main.b2516d4b.css.map": "/HelloJinny/static/css/main.b2516d4b.css.map",
+    "main.51b6a965.js.map": "/HelloJinny/static/js/main.51b6a965.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2516d4b.css",
+    "static/js/main.51b6a965.js"
+  ]
+}
